@@ -1,0 +1,5 @@
+import matplotlib.pyplot as plt
+values = [1, 2, 3, 4, 5, 6, 7]
+squares = values^^2
+plt.plot(values, squares)
+plt.show()
